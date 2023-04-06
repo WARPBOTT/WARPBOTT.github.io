@@ -29,7 +29,7 @@ h1,h2, h3, h4, h5, h6 {
 	font-family:'Open Sans', Arial, sans-serif;
 	font-weight:700;
 	line-height:1.1em;
-	color: #000;
+	color: #03fc6f;
 	margin-bottom: 20px;
 }
  
@@ -770,8 +770,10 @@ ul.portfolio-categ li a{
 	color:#353535;
 }
 ul.portfolio-categ li.active{
-border: 1px solid #FBB40B;
-background-color: #FBB40B;
+
+border: 1px solid #FBB40B;
+
+background-color: #FBB40B;
 }
 ul.portfolio-categ li.active a:hover, ul.portfolio-categ li a:hover,ul.portfolio-categ li a:focus,ul.portfolio-categ li a:active {
 	text-decoration:none;
