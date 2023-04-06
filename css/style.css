@@ -112,7 +112,7 @@ header .nav li.active ul.dropdown-menu li.active a{
 }
 header .nav li.active a,
 header .nav li.active a:hover{
-    border-bottom: #03fc6f;
+    border-bottom: #fbb40b;
 }
 header .navbar-default .navbar-nav > .open > a,
 header .navbar-default .navbar-nav > .open > a:hover,
@@ -216,7 +216,7 @@ header ul.nav li ul li a {
 
 
 .navbar .nav > li > a {
-  color: #FBB40B;
+  color: #0bfbeb;
   text-shadow: none;
   border: 1px solid rgba(255, 255, 255, 0) !important;
 }
