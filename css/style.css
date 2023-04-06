@@ -112,7 +112,7 @@ header .nav li.active ul.dropdown-menu li.active a{
 }
 header .nav li.active a,
 header .nav li.active a:hover{
-    border-bottom: #FBB40B;
+    border-bottom: #03fc6f;
 }
 header .navbar-default .navbar-nav > .open > a,
 header .navbar-default .navbar-nav > .open > a:hover,
